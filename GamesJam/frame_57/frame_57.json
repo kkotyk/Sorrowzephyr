@@ -1,0 +1,9 @@
+{"frame_num" : 57,
+        "num_animations" : 1,
+        "dialog" : "The hero bats the chicken away. He laughs at you,\n\n'silly man chicken not weapon!'\n\nThe hero is wrong! Hordes of chicken descend from the heavens upon the hero. He is overwhelmed by their avian attack. Every square inch of the hero's body is pecked and scratched at. Feathers fly and a flurry of dust is kicked up. When the dust settles the hero lies before you, dead!\n\nThe moon rises rapidly into the sky, the sun becomes eclipsed and darkness spreads across the land. A great tear in the Earth erupts and splits the town in twain. You teeter on the precipice and watch as a vile black fluid pours up from below, melting the flesh off every living thing it touches. You watch as Delvin's scrawny form melts away and his bones rise again and shamble towards you. From the south, you hear the horns of the Orcish hordes bellow out over the hills. A scream of terror can be heard in the distance. The mountains crack and you see a gigantic green dragon soar up into the sky. It is Yorvanjundr! His massive wings flap, spreading brimstone across the lands. The end of times has come, the hero could not save the lands.",
+        "options" : [{"opt" : "Game over",
+                      "frame" : 58,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

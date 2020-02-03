@@ -1,0 +1,14 @@
+{
+    "frame_num" : 19,
+    "num_animations" : 1,
+    "dialog" : "Destitute, broke, penniless. Surely Gilki the trickster god is toying with you. Still in need of nails to fix the gate you weigh your options.\n\nWhat do you do?",
+    "options" : [{"opt" : "Go see Delvin to ask for a loan.",
+                    "frame" : 21,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Return home and steal a dagger from the barrel.",
+                    "frame" : 12,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

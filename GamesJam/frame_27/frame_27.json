@@ -1,0 +1,10 @@
+{
+    "frame_num" : 27,
+    "num_animations" : 1,
+    "dialog" : "Thats it! You've had enough of Delvin's ridicule! You curl you hands into fists. They feel powerful, all those years pounding metal at the anvil has given you excellent strength. Pounding Delvin's face will be no different than straightening horse shoes. You stablize your balance, pull back your arm, and swing at Delvin's face while rotating your hips into the blow just as your father taught when you were a boy. Inches before turning Delvin's face into putty your arm is suddenly stopped by an impossible strength. You feel a hot breath tickle the nape of your neck.",
+    "options" : [{"opt" : "Fight.",
+                    "frame" : 59,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

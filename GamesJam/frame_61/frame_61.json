@@ -1,0 +1,9 @@
+{"frame_num" : 61,
+        "num_animations" : 1,
+        "dialog" : "The hero obliterates you!",
+        "options" : [{"opt" : "Game over.",
+                      "frame" : 58,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

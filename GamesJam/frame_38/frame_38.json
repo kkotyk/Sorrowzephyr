@@ -1,0 +1,9 @@
+{"frame_num" : 38,
+        "num_animations" : 1,
+        "dialog" : "No matter where you look you simply cannot find your shovel. Then it dawns on you. Mother would always sing a song when she was looking for something. You begin to sing the melody,\n\n\n\n'Here I am and there you are.\n\nWhere have you gone,\n\nmy little star?\n\nCome to me, hear my plea.\n\nGilki's curse,\n\nI banish thee.\n\nFree my mind\n\nand let me find.\n\nAll that vexes me!'\n\nThe song helps and you remember you last used your shovel down by the river.",
+        "options" : [{"opt" : "Head to the river to find your shovel.",
+                      "frame" : 39,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

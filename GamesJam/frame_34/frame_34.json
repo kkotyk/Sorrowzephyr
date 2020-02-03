@@ -1,0 +1,18 @@
+{
+    "frame_num" : 34,
+    "num_animations" : 1,
+    "dialog" : "The worn wooden door creaks open as you step into Draven's shop. The old roof aching timber wain, the ceiling sags low but Draven being a stout dwarf doesn't seem to mind. You stoop low so as not to strike your head against the rafters. Draven watches you enter. He is smiling heartily, but you wouldn't be able to tell directly. His beard being so large and bushy covers his mouth concealing his expression, but there is a sort of tuft at the edges of his whiskers like a cowlick that forms when he smiles.\n\n'My boy! On my ancestors how goes things? I've heard a furious drumming at your anvil this morning, struck by Muradin's might were ye?'/n/nYou tell Draven that Muradin's godly powers did not flow through you but surely they guided the hero's hands. You tell him about the gate and the need of iron to forge nails. Unluckily Draven has no iron left in stock, but he does happen to have some nails you sold him awhile back still in stock.\n\nWhat do you do?",
+    "options" : [{"opt" : "Buy the nails.",
+                    "frame" : 35,
+                    "flags" : [],
+                    "sets" : ["haveNails"]},
+                {"opt" : "Steal the nails..",
+                    "frame" : 36,
+                    "flags" : [],
+                    "sets" : ["haveNails"]},
+                {"opt" : "OFfer to repair Draven's roof.",
+                    "frame" : 37,
+                    "flags" : [],
+                    "sets" : ["haveNails"]}
+    ]
+}

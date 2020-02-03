@@ -1,0 +1,14 @@
+{
+    "frame_num" : 10,
+    "num_animations" : 1,
+    "dialog" : "The hero ignores everything you say. You walk into his path blocking his exit from the workshop. Without slowing the hero sharply turns towards the window, crouches, and leaps through the opening then sprints away.\n\nWhat do you do?",
+    "options" : [{"opt" : "Leave. Head to Draven's store to resupply.",
+                    "frame" : 15,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Attempt to take a dagger from the barrel.",
+                    "frame" : 12,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

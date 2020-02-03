@@ -1,0 +1,9 @@
+{"frame_num" : 37,
+        "num_animations" : 1,
+        "dialog" : "Draven lets out a boisterous chuckle,\n\n'Now that's a good lad. All troubles and still trying to lend a hand. I'll tell ye what boy, take these nails, fix that fence, and come next spring we can work on the roof. She needs new timbers and I ain't gonna be able to get them till spring. She'll last another winters snow by the Ancestors!'\n\nDraven hands you the nails and wishes you a good day.",
+        "options" : [{"opt" : "Go home proud.",
+                      "frame" : 33,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

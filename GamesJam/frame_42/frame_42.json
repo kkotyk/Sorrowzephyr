@@ -1,0 +1,14 @@
+{"frame_num" : 42,
+        "num_animations" : 1,
+        "dialog" : "This damn shovel cannot be found anywhere. You don't have time to search endlessly for this shovel. Perhaps the hero can assist you. Returning to town you find the hero at your house. He stands at your front door completely motionless. His nose pressed against the oak. You wave and ask if you can help him. He does nothing. Eventually, you try to poke him but he does not budge. This statuesque action scares you so you decide to go inside. Reaching around the hero you unlock your door and try to slide between him and the door frame to slip inside. Making it inside you, breathe a sigh of relief and shut the door. In that very instant the hero suddenly flings open the door and barges inside, barreling you over.\n\nWhat do you do?",
+        "options" : [{"opt" : "Hire the hero to find your shovel.",
+                      "frame" : 46,
+                      "flags" : [],
+                      "sets" : []
+                     },
+                     {"opt" : "Ask the hero about his strange actions.",
+                      "frame" : 47,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

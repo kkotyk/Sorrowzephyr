@@ -1,0 +1,14 @@
+{
+    "frame_num" : 5,
+    "num_animations" : 1,
+    "dialog" : "Home. The forge is lit. You restoke the flames and work the bellows briefly. A breeze blows through and you feel the chill of winter coming. After spending some time warming yourself at the forge you move on to the work at hand.\n\nWhat do you do?",
+    "options" : [{"opt" : "Head to the town gate.",
+                    "frame" : 2,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Gather your tools.",
+                    "frame" : 6,
+                    "flags" : ["shovel", "hammer", "nails"],
+                    "sets" : []}
+    ]
+}

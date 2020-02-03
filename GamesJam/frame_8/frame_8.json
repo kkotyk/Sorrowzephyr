@@ -1,0 +1,18 @@
+{
+    "frame_num" : 8,
+    "num_animations" : 1,
+    "dialog" : "Overjoyed the hero eagerly hands over 30 gold pieces for your iron. He then reaches deep into his rucksack and reveals hundreds of iron bars. He must have the strength of a lion to have hauled all those bars around. The hero asks for use of your workshop,\n\n'Me do smiff here? Me neva dun dis before. Me want try doh.'\n\nWhat do you do?",
+    "options" : [{"opt" : "Accept. Allow the hero free use of your workshop.",
+                    "frame" : 9,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Refuse. Ask the hero to clean up his iron and leave.",
+                    "frame" : 16,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Ignore the request and head to Draven's store to resupply.",
+                    "frame" : 20,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

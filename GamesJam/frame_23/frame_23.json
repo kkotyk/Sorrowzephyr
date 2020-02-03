@@ -1,0 +1,14 @@
+{
+    "frame_num" : 23,
+    "num_animations" : 1,
+    "dialog" : "Walking around to the back of Delvin's house you see his chicken coop. His prize chickens cluck about pecking in the soil for seeds.\n\nWhat do you do?",
+    "options" : [{"opt" : "Show Delvin who the real man is and punch his chicken!",
+                    "frame" : 28,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Steal a chicken.",
+                    "frame" : 29,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

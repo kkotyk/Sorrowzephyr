@@ -1,0 +1,10 @@
+{
+    "frame_num" : 31,
+    "num_animations" : 1,
+    "dialog" : "Delvin's offer is simply unfair. You cannot bear the steep burden it would impose upon you. Refusing the deal you leave heading home.",
+    "options" : [{"opt" : "Continue.",
+                    "frame" : 33,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

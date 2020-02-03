@@ -1,0 +1,17 @@
+{"frame_num" : 43,
+        "num_animations" : 1,
+        "dialog" : "You remove your long boots and roll up your trousers. Wading out into the river you find the water warmer than expected. You hear sloshing and quickly check if the Elkbear has decided to come downstream. Seeing nothing you move further out into the river. The water is much deeper here. The sloshing sound gets louder and louder. You look around, the Elkbear is nowhere to be seen. Perhaps it is swimming underwater.\n\nWhat do you do?",
+        "options" : [{"opt" : "Keep heading to the sandbar.",
+                      "frame" : 44,
+                      "flags" : [],
+                      "sets" : []
+                     },{"opt" : "Head back to shore.",
+                      "frame" : 44,
+                      "flags" : [],
+                      "sets" : []
+                     },{"opt" : "Dive underwater and look around.",
+                      "frame" : 45,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

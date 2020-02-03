@@ -1,0 +1,10 @@
+{
+    "frame_num" : 13,
+    "num_animations" : 1,
+    "dialog" : "The hero is much faster than you. You are unable to get away and must fight.",
+    "options" : [{"opt" : "Fight.",
+                    "frame" : 59,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

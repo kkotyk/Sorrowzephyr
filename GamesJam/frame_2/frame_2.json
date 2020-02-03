@@ -1,0 +1,18 @@
+{
+    "frame_num" : 2,
+    "num_animations" : 1,
+    "dialog" : "Arriving at the broken gate you look out past the gateway down the winding country road and wonder about what adventures must wait beyond the rolling hills. You look down at your feet to see the gate laying in the mud. Upon further inspection, you see that the gate was not simply blown from its moorings but seemingly chopped down at the hinges by a heavy axe. It would have taken a lion's strength to knock this gate down!\n\nWhat do you do?",
+    "options" : [{"opt" : "Try to lift up the gate.",
+                    "frame" : 3,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Inspect the hinges.",
+                    "frame" : 4,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Go back home.",
+                    "frame" : 5,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

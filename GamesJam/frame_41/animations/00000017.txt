@@ -1,0 +1,48 @@
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . .  .  . .  .  .  .  . . .  .  . .  .  . . . .  .  . .  .  . . .  .  . . .  .  .
+  .  .  .  .  .  .  . . . .  . . . . . .  .  . . . .  . . .  .   . . .  . . . .  .  . . .  .  . . .
+. . .  . . . .  . .  .  .  . .  . .  .  . . . .  .  . . .  . . . . .  . .  . . .  . . .  . . . . . 
+ . . . . . .  .. . . . . .. . . .  . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . .  
+ . .  . . . . .  . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . 
+. . . . . .  . . . . . . . . . . . . . . . . .  . . . . .  . .  .  . . . . . . . . . . . . .  .  . 
+ .  . . .  . . . . .  . . . . . . . . . . . . . . . . .  .. . . . . . .  . . . . . . . . . . . . . 
+ . . . . . . . . . . . . . . .  . . . . .  .  . . .  . . .  . . . . .  . . .  . .  .  . . .  . . . 
+. . . . . . . . . . . . .  .  . . .  . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . .
+ . . . . . . . . .  . .  . . . . . . .  . . . . . . . . . . . .  . . . . . . . . . . . . . . .  .  
+ .  . .  .  . .  . . . . . . . . .  . . . . . . .  . . . . . .  . . . . . . . . . . . . . . . . . .
+. . .  . . . .  . . . . . . . . . . . . .  . .  . . . .  .  . . . .  . . .  .  .  . . . . . . . . .
+ . . . . . . . . . . .  .  . . . . . . . . .  . . . .  . . . . . . . .  . . . . . .  . . . .  . .  
+ . . . . . . . . . . . . .. .  .  . . . . . .. . . . . . . . . . . . . . . . . . . . .  .  . . . . 
+. .  . . . . . . . .  . .  . . . . . .  . . .  . . . . . . . .  . . . . . . .  . . . . . . . . .  .
+ . . . .  . . . . . . . . . . . . . . . . .  . . .  . . . . . . . .  . . .  . . . .  . . . . . . . 
+....... . .  .  .  . . . . . . . . .  . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . 
+wwwwa,;...... . . .  . .  . .  .  . . . .  . . . . . . . . .  . . . . .  . . . . .  . . . .  . .  .
+QWWWWQQyc_wa . .  . . .  . .  . . .  . . . . .  .  . .  . . . . .  . .  . . .  .  . . . . . . . . .
+#ZXXXZ#$QQQQc . . .  .  . .  . . . . .  .  .  . . . .  . .  . .  . .  . .  .  . . . . . .  . . . . 
+XXXZXZXXX#QW(.. .  . . . . . . .  .  . . . . . .  .  . .  . .  . .  . . . . . . .  . .  . . . .  . 
+ZXXXXXXXZXZWQa,.. . .  .  . . .  . . .  .  .  . . . . . . .  . .  . . .  . . .  . .  . . . . . ....
+XXZXXXXZXXZZWWmc.. . . . .  .  . .  . . . . . .  .  .  . . . .  . . .  .. ... ... . .  .  .  . .._w
+ZXXXXZXXXXXX#WQWw,: .  .  . . . . . .  .  .  . . . . . .  .  . . . ......__=s_a,>:... . . . ...<wQQ
+XXXXZXXXXXZXXWWQQQa,... . . .  .  .  . . . . .  .  .  . . . . . ...._aagQWQWWWQQQQgc . . . ..syQQQW
+ZXZXXXXZXXXZZZWWWQQQa,.. . .  . . . . .  .  . . . . . .  .  . ..:<wmQQWBXZXXXXXXZ#WWg,...._amQQQW#X
+XXXXXZXXXZXZmmX#WWWWQma.:.  . .  .  .  . . .  .  . . . . . .._swQQQQQWXZXXXXXXXXZXX#Wm;:_wmQQQW#XXX
+ZXZXXXXXZXX#WW#XX#WWQQQQa,:.. . . . . . .  . . . .  .  ...:<wQWWWWQWQWmZXZXZXXZXXXXZQQmwmQWQB#XXXXZ
+XXXXZXXZXXXX##XXXXXZWWWWQQg>... . .  . . . . .  . . ...:<wmQWB#ZQWW##WWQmXXXXXXXZXZZQQQQQQQ#XXXXXZX
+XZXXXXXXXXXXZ#XXXXXXXX#$QWQQmc... . . .  .  . .....-_awmQW#XXXXXWWWQmWWWQmXXZXZXZXmQWWQWQWQmZZXXXXX
+ZXXXZXXZXXXZXXXXXXXXXXXXX#WWQQma.... . . ......._aamQQWW#SXXZXXXZ#W$WQQQQ#XZXXZZmmQWWQQQQQWWQmXZXZX
+XXXZXXXXXXZXXXXXXXXZXXXZXZX#QWQWQw,.:....:_=aaymQQQQQW#XXXXXXXZXZZXmWWQWWBmmXmmWWQQWWB####$QWWmmZXZ
+ZXXXXZXZZmZZZZXZXXZXXXZXXXZZ$QQWWWQmasawwmQQQQQQQQQQWWZXXXXXXZXZmmWmBWQWWBWmmWWWWW#XXXXXXZmm#QQWBWm
+XXZXZmmBWmWWWmmmmXXXXXXXZXXZmQQWQQQQQWWWWQQQQWW######XXXZXZZmmmWBWmWWWWWBWWQQQQW#XXXZZmmWBmmWBWWWm#
+ZZZmBWmWmWX#X##$mmmXZXZXXZZmQQWWW#$WWWQWQQQWQmZXXXXZW#XZZmmBmWmWmWmWWWWWQQWQWW#XXXXXmmWm##ZZ#mWWWWB
+ZmmWmWmWXXXXXXXZ#WBmmXZZmQWQWQWXXXXXX##WWWQQQWQmmmmm#XmmWBWBWBWWWWWWWWQW#####XZXXXmmWBWZZXXXXWmWQWB
+mWmWmWB#XXXXZmmmmWmWBmZmQWWQWWXZXXZXXXXXZ#WWWQWQQQWWWWQWWWWWQWQWWWQQQQ#ZXXXXXXXXZmmBW#XXXXXZm#BWWWW
+QWWmWBBmXXZZmmmmWmWBWmWQWQWW#ZXXXXXXXXXXXXXX#Z#W#WWQQWQQQQQQWQ##Z#WWWBXZXXXXXXXXX#WmW#XZXZZm#BWmQWW
+QWWmWmWmmmZmmWWBWmWmWBWWQWmmZXZXXZXXZXXXXXXXXXXXXX#QWWQWWQWQWQmmmmWWWXXZXXZXXXZXZZBWmmXXZmmmWBBWWQQ
+QQWBWmWBWmWBWmWmWmWBWmWWWWBWmmmXZXXZXXXZXZXXXXXXXXXXZZ##WQWQWWWWWWWBXXXXXXXXZXXXZZBBWmBBWBWBWmWmWWQ
+QQWWmWBBBWmWmWBWmWBWmWWQWmWmWWmWmmXZXXXXXXXXZXZXXZXZXXXX$QQBZX#WW#XZXXZXXZXXXXZXZmWBBWBWmWmWmWBWWWQ
+WWQWWmWBWmWmWBWmWBWmWWQWBWmWmWmWmWmmmXZXZXXZXXXXXXXXXZXZ#WWZXZXXXXZXXZXXXXXZXZZmmWmWmWmWmWBBWmWmWmQ
+WWQWWmWmWmWBWmWmWmWWWWQWmWmWBWmWBBWBmmmmXXZXXXXXZXZXXXXX#WQ#XXXXZXXXZXXXZZZZmmmWmWmWBWmWBWmWmWmWmWB
+WWQQWWmWBWmWmWmWBWWWWQWmWmWBWmWBWmWmWWBBmmmXZXZXXXXXXZXXXQWmZZXXXXZXXZXZmmmBBBWmWmWmWmWBBBWBWmWBWmW
+QQWQWWWBWmWmWBWBWWWWQWWBWBWmWmWmWmWBWmWBWBWmWmmmZZZZZXZXZWWQWXXZZZZZmmmWmBWBWmWBWmWBBWmWBWmWmWBWmWB
+QQWQQWWWWWWWWWWWWWQQWWmWmWmWBWmWmWBBBWmWmWmWmWmWmWBmmmmmmWWQWmmmmBWmWmWmWWmWmWmWmWBWmWmWmWmWBWmWmWm
+QQWWWQQQWWWWWWWQWQWWBWmWBBWmWmWBWBWmWmWBWmWBWmWmWBWBWWBWWWQQWWmWBWmWBWmWWmWmWBWmWmWmWmWBWmWBBBWmWmW

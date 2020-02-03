@@ -1,0 +1,9 @@
+{"frame_num" : 60,
+        "num_animations" : 1,
+        "dialog" : "You attempt to flee! The hero is much faster than you and catches you with ease.",
+        "options" : [{"opt" : "Continue.",
+                      "frame" : 61,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

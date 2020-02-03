@@ -1,0 +1,10 @@
+{
+    "frame_num" : 29,
+    "num_animations" : 1,
+    "dialog" : "You do your best to sneak up on an unsuspecting chicken. She is a gorgeous Silkie. Her fluffy feathers and full breast show she is prime breeding age. This is Delvin's prized hen, he has won the tri-county chicken show 3 years running with her. Creeping forward slowly, inch by inch you approach your target. You hold your breath for fear it will alert your prey to your presence. In a single bound you leap upon Delvin's prized hen snatching her by the legs. The chicken does not seem to mind, in fact she appears to enjoy being held. You have acquired a chicken.",
+    "options" : [{"opt" : "Return to the front of the house.",
+                    "frame" : 32,
+                    "flags" : [],
+                    "sets" : ["haveChicken"]}
+    ]
+}

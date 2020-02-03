@@ -1,0 +1,18 @@
+{
+    "frame_num" : 9,
+    "num_animations" : 1,
+    "dialog" : "With blinding speed and the skill of a master smith, the hero sets to work forging dagger after dagger. His craftsmanship increases to legendary status before your very eyes! In mere moments he churns out over 100 iron daggers each more perfectly crafted than the last. Never in all your years working in your trade would you ever be able to make a dagger of equal quality nor as many. The hero then produces ingots of rare mythryllim. He sets to work and in seconds crafts a full suit of armor, polished and perfectly fitted. The hero turns to you and says,\n\n'Okie, me done now. So-wee for being so slow. Me neva do dis before. You want buy me daggers?'\n\nYou cannot afford to purchase even a single dagger. The hero unamused by your poverty quickly dons his new armor and hastily stashes all his iron daggers in one of your barrels. You are confused by these actions. Does he intend to entrust his crafted goods to you? Or, does he mean to hide his loot for safekeeping?\n\nWhat do you do?",
+    "options" : [{"opt" : "Leave. Head to Draven's store to resupply.",
+                    "frame" : 15,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Attempt to take a dagger from the barrel.",
+                    "frame" : 12,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Ask the hero about what just happened.",
+                    "frame" : 10,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

@@ -1,0 +1,9 @@
+{"frame_num" : 47,
+        "num_animations" : 1,
+        "dialog" : "The hero is quite forthright and simply explains,\n\n'me was waitin.'\n\nHe offers no further explanation.",
+        "options" : [{"opt" : "Continue.",
+                      "frame" : 46,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

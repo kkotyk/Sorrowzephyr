@@ -1,0 +1,10 @@
+{
+    "frame_num" : 36,
+    "num_animations" : 1,
+    "dialog" : "You are no master thief. Draven cathes you instantly. He looks at you disappointed. He gives you the nails and says,\n\n'If'n ye would try to steal from a friend then times sure must be tough. Take the nails and we will sort the rest later. Your father's father would be ashamed!'",
+    "options" : [{"opt" : "Go home ashamed.",
+                    "frame" : 33,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

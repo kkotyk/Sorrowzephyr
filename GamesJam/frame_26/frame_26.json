@@ -1,0 +1,10 @@
+{
+    "frame_num" : 26,
+    "num_animations" : 1,
+    "dialog" : "Delvin is taken aback by your cunning and exacting cruel insult. It strikes him so deeply. Delvin face becomes sunken and hollow, he has the eyes of an utterly defeated man. In the distance you hear heavy footsteps rushing towards you. Looking around you cannot see what these pounding steps belong to. Your heart is racing, you have a good feeling you know who is coming. Suddenly as if out of the ether you feel a hot breath tickle the nape of your neck, \n\n'Oye wut u dun? Why be mean to be freen? Delvin gud, you bad dummy, mean dummy. Me smushems!' \n\nIs screamed into your ears.",
+    "options" : [{"opt" : "Fight.",
+                    "frame" : 59,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

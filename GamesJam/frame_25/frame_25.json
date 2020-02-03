@@ -1,0 +1,14 @@
+{
+    "frame_num" : 25,
+    "num_animations" : 1,
+    "dialog" : "Delvin tells you his chickens are not for sale, but for you he will make an exception. Delvin also tells you he will give an incredible discount as you are his most cherished of neighbours. His rapport comes dripping with sarcasm. Delvin offers to sell you a chicken for 150 gold pieces an unfathomably high price!\n\nWhat do you do?",
+    "options" : [{"opt" : "Drop the subject.",
+                    "frame" : 22,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Fight Delvin.",
+                    "frame" : 27,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

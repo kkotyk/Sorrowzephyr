@@ -1,0 +1,10 @@
+{
+    "frame_num" : 11,
+    "num_animations" : 1,
+    "dialog" : "With all of your might, you attempt to refuse opening your shop to sell your wares as you need this iron desperately. You feel compelled to do business, finding yourself saying an age-old merchant greeting expressed across the lands, \n\n'I've got the best wares anywhere!'\n\nAfter quickly negotiating a buy, sell, and buy-back system with the hero you agree to sell all of your iron to the hero for 30 gold.",
+    "options" : [{"opt" : "Continue.",
+                    "frame" : 8,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

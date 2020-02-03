@@ -1,0 +1,10 @@
+{
+    "frame_num" : 0,
+    "num_animations" : 1,
+    "dialog" : "Long has it been since the good king Harold Hrothgar slew the dragon Yorvanjundr and brought peace to the land. War! War ravages the lands once again. Orcish armies raid from the south guided by a malicious evil chieftain empowered by demon magic. Many kingdoms have been raped and pillaged by the vile hordes. To the north, the dwarven mountain holds remain sealed. A deadly plague washes through their halls. The infection oozes up from deep crevices raising from the dead everything it touches! Elven prophecy speaks of these end times. The prophecy warns that armageddon will come with the eclipse and the return of Yorvanjundr:\n\n'Land sundered,\nby black and green.\nStars align,\neternal night.\nYorvanjundr,\nrises unseen.\nHopeful sign,\nMeteorite!'\n\nNow it is the end of days...\n\nBut you have more pressing matters at hand...\n\nThe town's gate has been in disrepair for several days since a brave hero came through town selling his treasure retrieved from the bears' caves in the mountains. The mayor has demanded that you, the town blacksmith, repair the damaged gate immediately or be levied with a steep fine for unbecoming conduct. You are already having financial difficulties since having to resupply your larders after all your cheese wheels disappeared.\n\nWhat do you do?",
+    "options" : [{"opt" : "Go to the town gate.",
+                    "frame" : 1,
+                    "flags" : [],
+                    "sets" : ["chicken", "haveHammer", "hammer"]}
+    ]
+}

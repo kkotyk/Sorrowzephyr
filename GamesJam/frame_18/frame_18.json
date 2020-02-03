@@ -1,0 +1,10 @@
+{
+    "frame_num" : 18,
+    "num_animations" : 1,
+    "dialog" : "Cool brawny fingers wriggle about your pockets. They jerk about aggressively eagerly searching for secret treasures. The hero's hands work quickly to comb over every square inch of your body. No area was left unexplored. Eventually, all of your gold is lifted from your pockets by the hero. He gives a small chuckle believing you suspected nothing before rolling away down the street.",
+    "options" : [{"opt" : "Continue.",
+                    "frame" : 19,
+                    "flags" : [],
+                    "sets" : ["robbed"]}
+    ]
+}

@@ -1,0 +1,14 @@
+{"frame_num" : 41,
+        "num_animations" : 1,
+        "dialog" : "You tiptoe along the river's edge downstream being careful on the slippery rocks. In the distance, you see an Elkbear dipping its antler into the water scooping crawdads for winter hibernation. Pressing on downstream you come across a shallow stretch in the river. You see a wooden pole sticking upright in a sandbar out in the middle of the river. You think it might be your shovel.\n\nWhat do you do?",
+        "options" : [{"opt" : "Wade into the river.",
+                      "frame" : 43,
+                      "flags" : [],
+                      "sets" : []
+                     },
+                 {"opt" : "Give up and hire the hero to find your shovel.",
+                      "frame" : 42,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

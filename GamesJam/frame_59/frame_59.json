@@ -1,0 +1,17 @@
+{"frame_num" : 59,
+        "num_animations" : 1,
+        "dialog" : "You fight for your life.\n\nChoose action.",
+        "options" : [{"opt" : "Attack.",
+                      "frame" : 61,
+                      "flags" : [],
+                      "sets" : []
+                     },{"opt" : "Run away.",
+                      "frame" : 60,
+                      "flags" : [],
+                      "sets" : []
+                     },{"opt" : "Use Chicken",
+                      "frame" : 57,
+                      "flags" : ["haveChicken"],
+                      "sets" : []
+                     }]
+    }

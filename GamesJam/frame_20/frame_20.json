@@ -1,0 +1,10 @@
+{
+    "frame_num" : 20,
+    "num_animations" : 1,
+    "dialog" : "The hero's request is of no concern to you. Gathering your gold you turn to leave your shop and head to Draven's store. But, out of the corner of your eye, you see the hero quickly setting to work on the forge. It is the most dazzling sight! You turn to watch.",
+    "options" : [{"opt" : "Continue.",
+                    "frame" : 9,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

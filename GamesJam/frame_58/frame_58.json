@@ -1,0 +1,9 @@
+{"frame_num" : 58,
+        "num_animations" : 1,
+        "dialog" : "Your journey has ended.",
+        "options" : [{"opt" : "Quit",
+                      "frame" : -1,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

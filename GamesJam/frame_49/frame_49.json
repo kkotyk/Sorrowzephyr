@@ -1,0 +1,9 @@
+{"frame_num" : 49,
+        "num_animations" : 1,
+        "dialog" : "The hero is not pleased. He draws his axe!",
+        "options" : [{"opt" : "Fight!",
+                      "frame" : 59,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

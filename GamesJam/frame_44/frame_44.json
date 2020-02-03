@@ -1,0 +1,9 @@
+{"frame_num" : 44,
+        "num_animations" : 1,
+        "dialog" : "You rush off, but it's too late. Out from the water springs a most foul beast, a Drowner. The Drowner's flesh is pale, its skin sags and billows in the water like sheets drying in the wind. Its mouth opens wide revealing a long black tongue as ooze leeches out. It grabs you and presses its tongue down your throat then rips you beneath the water. The turbulence on the surface quickly settles, hiding the heinous action beneath. You have been drowned and consumed.",
+        "options" : [{"opt" : "Game over.",
+                      "frame" : 58,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

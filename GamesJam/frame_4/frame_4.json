@@ -1,0 +1,10 @@
+{
+    "frame_num" : 4,
+    "num_animations" : 1,
+    "dialog" : "You inspect the gate hinges closely. They look salvageable but they need new NAILS to secure them to the gate and a good hammering to bend them straight.",
+    "options" : [{"opt" : "Continue.",
+                    "frame" : 2,
+                    "flags" : [],
+                    "sets" : ["nails"]}
+    ]
+}

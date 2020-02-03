@@ -1,0 +1,14 @@
+{"frame_num" : 53,
+        "num_animations" : 1,
+        "dialog" : "At last, you have everything you need to fix the broken gate. You head out down the dirt road, looking around carefully for the hero. He is not around. You creep down the dirt road until you reach the gateway. Once again, you look to see if the hero is coming. All clear. You look down and see the gate still stuck in the mud, the bent hinges laying atop it.\n\nWhat do you do?",
+        "options" : [{"opt" : "Dig the gate out of the mud",
+                      "frame" : 54,
+                      "flags" : [],
+                      "sets" : []
+                     },
+                 {"opt" : "Hammer the hinges back into shape.",
+                      "frame" : 55,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

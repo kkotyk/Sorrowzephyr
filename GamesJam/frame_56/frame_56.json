@@ -1,0 +1,9 @@
+{"frame_num" : 56,
+        "num_animations" : 1,
+        "dialog" : "Taking your hammer and nails, you fasten the hinges back onto the gate and then set the gate on its moorings in the gateway. You give the gate a few test swings. Good as new! No creaks and a smooth motion. The mayor will be happy.\n\nCongratulations you repaired the town gate!\n\n...\n\n...\n\n...You feel a hot breath tickle the nape of your neck...",
+        "options" : [{"opt" : "You finished the game!",
+                      "frame" : 58,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

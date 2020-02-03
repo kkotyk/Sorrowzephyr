@@ -1,0 +1,18 @@
+{
+    "frame_num" : 15,
+    "num_animations" : 1,
+    "dialog" : "You make your way over to Draven's store. It is just down the street, a nice short walk. A gentle breeze is rolling down from the mountains. The priests of Ull say the mountain winds come from Persphii herself wishing the land good tidings before she descends into the Earth's bosom to rest until spring. You feel hot breath on the nape your neck and a hand rummaging through your pockets. The hero is barely making an attempt to conceal his actions. He notices you looking at him. He quicksaves.",
+    "options" : [{"opt" : "Pretend like nothing is happening.",
+                    "frame" : 18,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Confront the hero.",
+                    "frame" : 17,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Fight.",
+                    "frame" : 59,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

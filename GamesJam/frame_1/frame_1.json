@@ -1,0 +1,14 @@
+{
+    "frame_num" : 1,
+    "num_animations" : 1,
+    "dialog" : "It is a bright fall morning. The air is cool upon your skin. Dew gleams off the grassy hills. You head north through the town towards the broken gate taking the main road. The road is still muddy from last night's rain but you don't mind, your boots are tall and strong, good for forging and plowing through muddy streets. The smell of fresh bread baking wafts through the air. Estel, the baker's wife, must have had trouble sleeping through the rain again and started working early. She has had terrible frights since the Drowners attacked her last harvest.\n\nWhat do you do?",
+    "options" : [{"opt" : "Continue towards the broken gate.",
+                    "frame" : 2,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Go back home.",
+                    "frame" : 5,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "frame_num" : 30,
+    "num_animations" : 1,
+    "dialog" : "Although Delvin's loan is exceedingly one sided you find that you cannot refuse. You accept the loan and head the Draven's shop to buy iron.",
+    "options" : [{"opt" : "Go to Draven's store to buy iron.",
+                    "frame" : 34,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

@@ -1,0 +1,9 @@
+{"frame_num" : 45,
+        "num_animations" : 1,
+        "dialog" : "Your eyes are well adjusted to seeing underwater due to years swimming in these waters. Dipping your head beneath the surface you look all around for the Elkbear and come face to face with a menacing figure. Alarmed you make haste for the shore!",
+        "options" : [{"opt" : "Continue.",
+                      "frame" : 44,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

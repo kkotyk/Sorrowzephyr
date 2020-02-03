@@ -1,0 +1,10 @@
+{
+    "frame_num" : 28,
+    "num_animations" : 1,
+    "dialog" : "You wind up. Swing hard. And, punch a chicken straight in the beak. A clean hit! But, suddenly the chicken turns back to you, fury in its eyes. The chickens begin to swarm about you. There seems to be more chickens than possible. The chickens rain a storm of pecks upon you. Thrashing, punching, and kicking at the avian onslaught produces no reprieve. These birds, immortal denizens, strike you low./n/nYou have died!",
+    "options" : [{"opt" : "Game over.",
+                    "frame" : 58,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

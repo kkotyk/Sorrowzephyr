@@ -1,0 +1,18 @@
+{
+    "frame_num" : 6,
+    "num_animations" : 1,
+    "dialog" : "Searching about the workshop you find your trusty hammer. It was right where you left it, laid atop the anvil. Legends say when the hammer crashes down upon hot iron the metal's evil spirit is pressed upon and absorbed by the anvil. All good smiths know that before the iron is worked the hammer must sing against the anvil to warn the evil spirits to stay inside or feel the hammer's wrath again. A hammer must always lay upon an anvil when unattended for fear all the ferrous spirits trapped within would be released. You check your nail box and see you are completely out, new nails need to be forged. Your shovel seems to be missing, it cannot be found anywhere.\n\nWhat do you do?",
+    "options" : [{"opt" : "Gather your iron to begin forging new nails.",
+                    "frame" : 7,
+                    "flags" : [],
+                    "sets" : ["nailsQuest"]},
+                {"opt" : "Look for signs of your missing shovel.",
+                    "frame" : 38,
+                    "flags" : [],
+                    "sets" : ["shovelQuest"]},
+                {"opt" : "Go to the town gate.",
+                    "frame" : 2,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

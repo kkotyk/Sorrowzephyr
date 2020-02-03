@@ -1,0 +1,19 @@
+{"frame_num" : 46,
+        "num_animations" : 1,
+        "dialog" : "You tell the hero about your missing shovel and ask him if he could find it for you. Rather than being insulted or bored by such a mundane task, the hero seems excited. He asks,\n\n'is dis er shuffel?'\n\nAs he produces your shovel from his rucksack. Where on Earth did you find it you ask? You immediately regret asking as the hero speaks,\n\n'Oh me fine dat easy easy. Me go deep cave unda all dis. Big spider der, she eat deh people and makems oozy goey. Me gettem sticky but okay. Me chop er gud den go in er home. She got big house, much room. Big stones, magic ring. Me go magic ring an der power come in swoosh swoosh, now me breve fire! Den me go an fine dis armor shiny, and shuffel right der! See easy easy!'\n\nAwestruck you cannot find your words.\n\nWhat do you do?",
+        "options" : [{"opt" : "Wait.",
+                      "frame" : 48,
+                      "flags" : [],
+                      "sets" : []
+                     },
+                 {"opt" : "Do nothing.",
+                      "frame" : 48,
+                      "flags" : [],
+                      "sets" : []
+                     },
+                 {"opt" : "Keep listening",
+                      "frame" : 48,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

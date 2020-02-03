@@ -1,0 +1,10 @@
+{
+    "frame_num" : 32,
+    "num_animations" : 1,
+    "dialog" : "Your return to the front of Delvin's beautiful and expensive home.",
+    "options" : [{"opt" : "Knock on the door.",
+                    "frame" : 22,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

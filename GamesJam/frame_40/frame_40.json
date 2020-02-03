@@ -1,0 +1,14 @@
+{"frame_num" : 40,
+        "num_animations" : 1,
+        "dialog" : "Mother's grave. She loved coming to sit by the river and read. It was fitting to bury her here. You piled the rocks high just as the priests command, lest nasty ghouls creep up from the water's edge, drawn by the recently deceased. Sorrow fills your heart as a gentle zephyr tousles your hair. She passed so suddenly, the medicine woman said she found her unconscious and peppered with splinters at the town gate. There was nothing you could do....\n\nYou regret coming here. The shovel is nowhere to be seen.\n\nWhat do you do?",
+        "options" : [{"opt" : "Check down stream.",
+                      "frame" : 41,
+                      "flags" : [],
+                      "sets" : []
+                     },
+                 {"opt" : "Give up and hire the hero to find your shovel.",
+                      "frame" : 42,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

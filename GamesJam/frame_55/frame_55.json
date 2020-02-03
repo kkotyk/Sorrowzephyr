@@ -1,0 +1,14 @@
+{"frame_num" : 55,
+        "num_animations" : 1,
+        "dialog" : "The hinges are bent at odd angles, but the steel is fairly soft. You lean over a nearby boulder and hammer the hinges straight. It is rough work, but good enough for old hinges.",
+        "options" : [{"opt" : "Dig the gate out of the mud.",
+                      "frame" : 54,
+                      "flags" : [],
+                      "sets" : ["unbent"]
+                     },
+                     {"opt" : "Set the gate in place.",
+                      "frame" : 56,
+                      "flags" : ["unstuck", "unbent"],
+                      "sets" : []
+                     }]
+    }

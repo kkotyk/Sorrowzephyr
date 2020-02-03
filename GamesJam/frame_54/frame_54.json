@@ -1,0 +1,13 @@
+{"frame_num" : 54,
+        "num_animations" : 1,
+        "dialog" : "Its difficult work shoveling the gate free, but as a blacksmith you are not troubled by it. You pick up the gate and lean it into the gateway.",
+        "options" : [{"opt" : "Hammer the hinges back into shape.",
+                      "frame" : 55,
+                      "flags" : [],
+                      "sets" : ["unstuck"]
+                     },{"opt" : "Set the gate in place.",
+                      "frame" : 56,
+                      "flags" : ["unstuck", "unbent"],
+                      "sets" : []
+                     }]
+    }

@@ -1,0 +1,14 @@
+{
+    "frame_num" : 24,
+    "num_animations" : 1,
+    "dialog" : "You beg Delvin for a loan. You promise that you are good for it and ensure that you will be able to repay the loan by next spring. Delvin revels in your pleading, he derives great pleasure in your misery and drags the negotiations out for as long as possible. Delvin knows how important a blacksmith's hammer is to a good smith. He demands you put up your hammer for collateral.\n\nWhat do you do?",
+    "options" : [{"opt" : "Accept the loan terms.",
+                    "frame" : 30,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Decline the loan terms.",
+                    "frame" : 31,
+                    "flags" : [],
+                    "sets" : ["loan"]}
+    ]
+}

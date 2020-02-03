@@ -1,0 +1,10 @@
+{
+    "frame_num" : 14,
+    "num_animations" : 1,
+    "dialog" : "The hero ignores your pleas. You are unable to convince him and must fight.",
+    "options" : [{"opt" : "Fight.",
+                    "frame" : 59,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

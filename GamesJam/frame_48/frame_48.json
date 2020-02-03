@@ -1,0 +1,14 @@
+{"frame_num" : 48,
+        "num_animations" : 1,
+        "dialog" : "The hero gives you your shovel and then demands a reward. How could he possibly need anything you have after vanquishing Veeshob the spider queen and raiding her ancient sanctuary? There is simply nothing you have that he could desire.\n\nWhat do you do?",
+        "options" : [{"opt" : "Tell him you have no reward.",
+                      "frame" : 49,
+                      "flags" : [],
+                      "sets" : []
+                     },
+                 {"opt" : "Offer him free repair services.",
+                      "frame" : 50,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

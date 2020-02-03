@@ -1,0 +1,48 @@
+iiiiiiiiiiiil|||||||+||||+|||+|||+|||+|+|+|+|+|==+||+||+||+|+|+|+|+|+|+|+|+||||||=;;;;;:;==+++++++|
+iiiii|iiiiiil|||+|+||+|+||+|+||+||+|+||+||+|+|++++|+||+|+|+|+|++|=++++++++|+||||+==;;;;;;==+++|+|++
+iiiiiiiiiiiil||||||+|||||+||||||+|||||+||+||+|+|=+|+|+||+|+|+|+|+|+|+||+|+||||||+==;;;;;;==+|+++++|
+iiiiiiiiiiiiI|i||+|||||||||||||||||||||||+-:;-++=+||+||+|+|+|+|+++|+|++|+|++|||||==;;;;;;=++++|+|++
+liiiiiiiiiilIi||||||||||||||||||||||||+|=%aoc:::=+|+|||+||+|+|+|+|++|+|+|+||||||+===;;=;;=++|+|++|+
+iililiiililllii|||||||||||||||||||||||||!***(::::=|||+|||+||+|+|+|+|+|+|++|+|||||==;=;;;;=+|+|++|+|
+llilililillllii|i|ii|i|i|i|ii|i|i|i|i|i|_=;=|:-::=|+|||+|+|+|+|+|+|+|+|+|+|||||||===;=;=;=++++|+|+|
+lllililillilIsii|i|ii|iii|i|ii|ii|ii|ii><%|+;:::=+|||+|||+||+||+|+|+|+|+|+|||||||===;;=;;=+|+|+|+|+
+llilllllllllIs|ii|ii|ii|iiiii|ii|ii|ii|>--+++-- +|+||||+|||+||+|+|+|+|+|+||+|||||===;=;;;=++|+|+|+|
+llllllllllllIIiiiiiiiiiiii|iiiiiiiiiii+` .      .--||+|||+||+|+|+||+|+|||+|||i|||====;=;;=+|+|+|+|+
+llllllllllllvviiiiiiiiiiiiiiiiiiiv>||=:_..  ....:::||+Ii%||+|||+||+|+||+|+|||||i|===;;=;;==|++|+|++
+IlllllllllIIIviiiiiiiiiiiiiiiiive"i||>:==_,i|,:::::.--|+|1+||+|+|+|||+|+|||||ii||===;=;;;;+|+|++|+|
+IlIIlIlIIIIIvviiiiiiiiiiiiiiiiie` -<v|;-+!~-<>;;- .    =+|||+||||||+|||||+|||i|||===;=;;;;++++|+++|
+IIIIIIIIIIIvIvliliiiiiiiiiillIvi_ .-{nXc__,v1|+-        .=||||+|+|+||+|+||+|ii|i|====;;=;;+|+|++|++
+vlIIIIIIvIvIvvlliiiliiiiiiiiiiiii%. :qovlvlqXk;       :+|:|||+||||||+||||+||i|i||===;=;;;;|+||+||+|
+IIvIIIvIIvIvvv%lliliiiiiiiiiii|iic=_:{XnlllYv>- .  ...==+|||||||+|+|||+|||||iii||====;=;;=+||||+++|
+vIIIvIIvIvvIvvvlllilililiiii|i|i|v||:vXXlvvmdi.      :;=+++||+||||||||||||||ii|i|===;=;;;:|||||||++
+vIvIvIvvIvvvvvvllii+<iiiiiii|i|i|~~+-+vnlII||; .  .   <;   =|||||+|||+||||||iiii|===;;;::::+||||++|
+vIvvIvvvvvvvvvvllli.=|||<iiii|i|;  ..<nIvII+i|         <_|||+|||||||||||||||iiii|====;;:::.=|||++|+
+vvIvvvvIvvvvvnvllll:=lilliiiiiiuoc=:.)Iulvl||~ .    .. :|vi+||||+||+||||||||liii|+==;;;;:::||+++++|
+vvIvIvvvvvvvvvnIIIv.=vlliliiiiidZ==;...-<li-  . __ =s%   "(=|.     .<||||||iliiii===;;;;:::||+++|+|
+vvvvvvvvvvvvnnnIvIvi%Illlililiu"{Svvi,.. --   .)v>=|]S; .|.=l|=|||||||||i|iiiliii===;=;=;=||++++++|
+vvvvvvvvvvvvvnvvIvIIIIllllllln^ =XllI}` .   ..vilI|||T+..|` -=ii||||i|i|i||illlii====;;;;:|+++++|++
+vvvvvvvvvvnvnnnvvIvIvIvlIIIII> .=SlvI.      ..-<lIi=++==.>  .=||i|i|i||i|i|illili=+=;=;=;:|+++++++|
+vvvvIvvvvvvnvnnvIvvIvIvIvvvvv` . {vvv; .  . ...:Ill|+-<lii=_==iii|i|i|i|i|iilllii===;=;;;=+|++++|+|
+vvvvvvvvvvnvnnnvvvvvvvvvvvv}`. :ivvvv>      |..:llI= .llililiiii|ii|ii|ii|iilllli|==;=;;;:||+++++|+
+vvvvvvvvvnvnvnnvvvvnnnnoo2"+::vonnnvv> .   .v>:.iI> .:viliiiiiiiii|ii|ii|iiilIlli===;=;;;=+|=+++|+|
+vvvvvvvvnvnvnnnnvnnooSoS}`s_=>voonnnn;:    .vv;:+~` .=Illllliiiiiiii|ii|ii|iIllli>==;;;;;:|+=+++=++
+vvvvvvvvvnvnnnonno2S222+smSSSSo22ooooc : .  vvs... . =vIllliiiiiii|iiiiii|iiIIlli==;;;;;;=+++======
+vvvvvvvnnvnnnoooo2S22+amA2S22S2S2S2S2S;.    )nv;...;.:vIIlllliiiiiii|i|iiiiilllli>=;=;;;;:|+=++====
+vvvvvnnvnnnno22SoSe|sm#2SXSSSSS2S2S2SXz... .)nns..:::-vIIIlliliiiiiiiiiii|iiIIlli===;;;;;:|=++==+==
+vvvnvnvnnnoo22222+sm#SSSXSSXSSSSSSS2SX6i;;;:<1nvi_v>=;+vlIllliliiiii|iii|iiilllli>=;;;;;;:|=+++====
+vnvnnnnnooo22S2+sg8SSSSSXXXSXSXSS2SS22X6n|||||nnn2zc++=<vlllliiiiiiiii|iiiiiIIlii>=;;;;;;=++++=++=+
+nvnvnnnoo22Se+sm8SSXSSSXXSSXSXSS2XS2S2SXmz|iiivvnZoi++|+lIllliliiii|i|ii|iiilllil|;;;;;;;:++=+++===
+vnvnnnno22*+am&2S2XSSXXXSXXXSSSSSS2S222X#k|||invnXZ>|+++ivllliiiiiii|ii|ii|illlii>;;;;;;;=++++++++=
+nnnnnoo2!=w#&2XXS2XSSXSSSSSSSSS2S2S2S222XZ|||{nnvvSc+|++vllliliii||||||+|+++{iiii>;;;;;;;:|++|+++=+
+nvnnon><w#SS2XXX2SSSSSSSSSSSS2SSS2S22222X#c|i{nvvv=X>=+===;;;;:;:::::::::::::;:+||;;:;;:;:|=+++++++
+v11*+swV1I1I1I1IS2SSSSSXSSSS2X22oX1211111X>|+=l|ii]Zc=+=============;:;:;;;;;;;;:|;:;::;::|++|++|=+
+|==adY|iiiiiiiiiI1IIIIIlllllvivviivivvvoe~: +=~ii||Xei=+|++++==================:;;:::-:-::::==|++++
+<wZ1||||iiilIvvvnnnnoonnnnnooonnnnnnvI!~      :|||=|{|=:=++++++==========;=====;;;:-:.:--::::=+++++
+VliIlIvvnnnooo22S222SSSSS222So2onon1:.   ..___|ii||=-++ :++==========;=;=;=;==;=;;:::::::::::=|=+++
+vvvnnnno22SSXXXXXXXXXXSSSo22222oonnnii=i|i|||iiiii|:    :=====+=+=+========+=====;;:;:;:;;=;=======
+ooXXXZUZZ#XZXZXXXXXXS22o22oooonnvnvvvllliii||iii|||=;___;++|+|+|+|=+++=+=++=+++===;;;;;;;=;=;======
+#######ZZZXXX2SoonnonnnnnnnnvvvIvlIIliiiii||||||||||||++||+|=++=+=+++=+++++++++=+==;=;=;=;;;;=;=;;;
+#XXXS212nnnvvvvvnvvvvIvvlIllllliiiiiiii|i||||+||||||||=|=++++++++=+==++=+=++++++===;;;;=;;;=;;;;;;;
+vIvouIvzlvvlvlv%vuIvivilviiiiiii|i||||||i||++|+|+|||+++=++++++=+=======+=+=++++=+===;=;;;;;;;;;;;::
+onn2non1Xvonn111i1In3Ion1lii|i|||||||||i|||+++|++|+|++=+++=+========================;;;=;;;=;;;::;:
+X2ooonnnnvnIliiii|i|||ii||||||||||+|||||||+=++=+|+|++=+=+=++=======================;=;;;;;;;;;::;::

@@ -1,0 +1,14 @@
+{
+    "frame_num" : 21,
+    "num_animations" : 1,
+    "dialog" : "Delvin's house is beautiful two story home. The walls are well plastered, insulating the inside from the cold harsh winters. The roof is steeply pitched with smooth sweeping lines like that of elven lands. The glass windows are perfectly clear, unlike your own, which are dotted with imperfection and have a constant haze that makes gazing out of them a dizzying experience. You approach the front door, it is bright red with a large brass knocker.\n\nWhat do you do?",
+    "options" : [{"opt" : "Knock on the door.",
+                    "frame" : 22,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Check around back.",
+                    "frame" : 23,
+                    "flags" : ["chicken"],
+                    "sets" : []}
+    ]
+}

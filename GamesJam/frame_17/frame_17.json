@@ -1,0 +1,10 @@
+{
+    "frame_num" : 17,
+    "num_animations" : 1,
+    "dialog" : "How dare he! He may be a hero but that gives him no right to purge your pockets of what meager coin you have! You confront the hero and scold his behavior. The hero rises up towering over you. His shadow completely encapsulates you. The hero growls,\n\n'Duh gimmie deh coin er elf me smashems!'\n\nFear ripples down your spine. You feel hot liquid streaming down your legs. Your hands tremble as you reach into your pockets fumbling for your gold. The hero impatiently grunts. Your clammy hands have difficulty maintaining the grip on your gold coins. Handing over all your gold the hero then lowers himself into a deep crouch. He stretches his hands out into your pockets turning them inside out. Satisfied, the hero thanks you for your kind donations and wishes Ull's graces upon you and your family before rolling away down the street.",
+    "options" : [{"opt" : "Continue.",
+                    "frame" : 19,
+                    "flags" : [],
+                    "sets" : ["robbed"]}
+    ]
+}

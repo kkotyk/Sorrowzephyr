@@ -1,0 +1,14 @@
+{"frame_num" : 52,
+        "num_animations" : 1,
+        "dialog" : "The hero agrees. He stops moving and stands perfectly still. His eyes stare off into the distance. Is he breathing, you wonder? You have seen him do this frightful statue before and know nothing can move him. How long can he possibly wait here?\n\nWhat do you do?",
+        "options" : [{"opt" : "Try to repair the armor.",
+                      "frame" : 51,
+                      "flags" : [],
+                      "sets" : []
+                     },
+                     {"opt" : "Go inside.",
+                      "frame" : 33,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

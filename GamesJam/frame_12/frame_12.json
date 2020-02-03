@@ -1,0 +1,18 @@
+{
+    "frame_num" : 12,
+    "num_animations" : 1,
+    "dialog" : "You approach the barrel. It is brimming with iron daggers. They are rammed into the barrel with absolutely no concern for maintaining their perfectly sharpened edges. You wonder how they were made so sharp, you don't even own a grinding wheel. The hero has turned simple iron blades into works of art. You reach out to grab one. Hot breath tickles the nape of your neck. Slowly turning around you see the hero, weapon drawn, his face empty of all emotion. He quicksaves.\n\nWhat do you do?",
+    "options" : [{"opt" : "Apologize profusely.",
+                    "frame" : 14,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Take the dagger and run.",
+                    "frame" : 13,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Fight.",
+                    "frame" : 59,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

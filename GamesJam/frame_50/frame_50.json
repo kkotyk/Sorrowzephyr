@@ -1,0 +1,14 @@
+{"frame_num" : 50,
+        "num_animations" : 1,
+        "dialog" : "The hero is overjoyed.\n\n'Dis so gud me need u fixems dis.'\n\n He says, and hands you a package. You peel back the cloth wrappings to reveal a suit of armor in such poor repair, it closer resembles iron fillings. The metal is completely rusted through and is of unknown alchemical origins. The armor's plates are made of bones you cannot identify. The leather joints smell of sulfur and are both stretchy yet hard. What arcane depths of hell did this suit of armor come from? Your eyes cannot even make sense of what you are seeing. This armor is destroyed and completely beyond your skill. The hero demands you fix it!\n\nWhat do you do?",
+        "options" : [{"opt" : "Try to repair the armor.",
+                      "frame" : 51,
+                      "flags" : [],
+                      "sets" : ["haveShovel"]
+                     },
+                     {"opt" : "Tell him to return later.",
+                      "frame" : 52,
+                      "flags" : [],
+                      "sets" : ["haveShovel"]
+                     }]
+    }

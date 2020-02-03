@@ -1,0 +1,10 @@
+{
+    "frame_num" : 35,
+    "num_animations" : 1,
+    "dialog" : "You purchase the nails and share in idle chit-chat with Draven for awhile. Eventually you bid each other good day and head home.",
+    "options" : [{"opt" : "Head home.",
+                    "frame" : 33,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

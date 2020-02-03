@@ -1,0 +1,22 @@
+{
+    "frame_num" : 22,
+    "num_animations" : 1,
+    "dialog" : "Knock! Knock! Knock! You let the brass bullhead knocker crash against the door. After waiting a short period Delvin answers. He does not invite you inside, rather he steps out onto his porch motioning you to step back.\n\n'Yes, what is it? What do you want?'\n\nDelvin snaps at you. He takes his hand and slicks back his greasy thin grey hair then scowls at you with his beady eyes.\n\nWhat do you do?",
+    "options" : [{"opt" : "Ask Delvin for a loan to buy nails.",
+                    "frame" : 24,
+                    "flags" : ["robbed"],
+                    "sets" : []},
+                {"opt" : "Ask to buy one of Delvin's chickens.",
+                    "frame" : 25,
+                    "flags" : ["chicken"],
+                    "sets" : []},
+                {"opt" : "Insult Delvin.",
+                    "frame" : 26,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Fight Delvin.",
+                    "frame" : 27,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

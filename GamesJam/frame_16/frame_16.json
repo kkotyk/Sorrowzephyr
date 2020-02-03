@@ -1,0 +1,10 @@
+{
+    "frame_num" : 16,
+    "num_animations" : 1,
+    "dialog" : "Your outright refusal to allow the use of your workshop surprises the hero. He stands for a moment fingering the grip of his battle axe. A smirk curls in the corner of his mouth. He reaches into his rucksack and produces an amphora of wine. The hero uncorks the amphora and downs the contents instantaneously. This amount of alcohol would surely kill any mortal. The hero addresses you. His tongue now smooth and silvery weaves and elegant rhetoric. He speaks with such grace and melody you find yourself entranced. He persuades you to allow him free use of your workshop. You cannot help but abide by his every demand as if some mystical strings guide and program your every action.",
+    "options" : [{"opt" : "Continue.",
+                    "frame" : 9,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

@@ -1,0 +1,9 @@
+{"frame_num" : 51,
+        "num_animations" : 1,
+        "dialog" : "With a single swing of your hammer, the armor snaps into shape becoming perfectly repaired. You question everything.",
+        "options" : [{"opt" : "Go inside.",
+                      "frame" : 33,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }

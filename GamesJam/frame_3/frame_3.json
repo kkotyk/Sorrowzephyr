@@ -1,0 +1,10 @@
+{
+    "frame_num" : 3,
+    "num_animations" : 1,
+    "dialog" : "You try to lift the gate but it is stuck deep in the mud. You will need a SHOVEL to dig the gate free.",
+    "options" : [{"opt" : "Continue.",
+                    "frame" : 2,
+                    "flags" : [],
+                    "sets" : ["shovel"]}
+    ]
+}

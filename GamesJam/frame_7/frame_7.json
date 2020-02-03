@@ -1,0 +1,14 @@
+{
+    "frame_num" : 7,
+    "num_animations" : 1,
+    "dialog" : "You gather all of your iron, supplies are low. This the last of your iron until next spring when the mountain passes to Fvieldenarr reopen and Draven the dwarf can make another trip to resupply his wares. Out of the corner of your eye you see a striking figure in blood stained armor with a massive battle axe upon his back approach your workshop. He is tall, broad shouldered, with flowing emerald green hair. The figure steps into your shop and quickly looks around, he searches your barrels, crates, and drawers. Finding nothing of interest he approaches you. He glares through you, one eye bright pink, the other pure black. He slurs,\n\n'you duh blath-smith? My buy you. Me many gold.'\n\nYour heart races! A hero, noble brave and true, has come to your store. You agree to show him your wares. He requests all of your iron, every last bar and is willing to pay a premium price. You guess that Draven the storekeep may still have some iron in stock for the nails.\n\nWhat do you do?",
+    "options" : [{"opt" : "Sell the hero all of your iron. Earn 30 gold.",
+                    "frame" : 8,
+                    "flags" : [],
+                    "sets" : []},
+                {"opt" : "Refuse to sell the hero your iron and go back to forging nails.",
+                    "frame" : 11,
+                    "flags" : [],
+                    "sets" : []}
+    ]
+}

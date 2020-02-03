@@ -1,0 +1,22 @@
+{
+    "frame_num" : 33,
+    "num_animations" : 1,
+    "dialog" : "You return home, worn by the day's dealings. Your mind drifts to thoughts of Giz'el, the mayors daughter. She is the apple of your eye, you have admired her since you were just a little boy. The mayor is hard on you beacuse he is wary of your affection for Giz'el. How you miss her, the smell of her hair, how she would dance in the sun, her smile that would melt away your woes. It feels like only days have passed since she wandered out of town looking for that meteorite that crashed down in the nearby fjord...\n\nWhat do you do?",
+    "options" : [{"opt" : "Gather your iron to begin forging new nails.",
+                    "frame" : 7,
+                    "flags" : ["shovelQuest"],
+                    "sets" : ["nailsQuest"]},
+                {"opt" : "Look for signs of your missing shovel.",
+                    "frame" : 38,
+                    "flags" : ["nailsQuest"],
+                    "sets" : ["shovelQuest"]},
+                {"opt" : "Return the Delvins and accept his loan terms.",
+                    "frame" : 30,
+                    "flags" : ["loan", "nailsQuest"],
+                    "sets" : []},
+                {"opt" : "Go repair the broken gate.",
+                    "frame" : 53,
+                    "flags" : ["haveNails", "haveShovel", "haveHammer"],
+                    "sets" : []}
+    ]
+}

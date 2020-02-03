@@ -1,0 +1,17 @@
+{"frame_num" : 39,
+        "num_animations" : 1,
+        "dialog" : "The path down to the rivers edge twists and turns through the berry bushes. Your mother used to bring you here to pick berries every summer. She takes the pails you collected and makes the most fantastic of jams. Thorns catch, tugging on your tunic like child beckoning you to come and play. The berries are mostly picked but a good deal ripe ones are left. You have no time for childhood fancy and rush down to the river's edge. You check the water, the old oak tree where you used to swing from into the river during hot summers, and the old bench your father made for your mother. You regret coming down to the river, but there is one place you are avoiding checking.\n\nWhat do you do?",
+        "options" : [{"opt" : "Check the pile of stones you are avoiding.",
+                      "frame" : 40,
+                      "flags" : [],
+                      "sets" : []
+                     },{"opt" : "Check down stream.",
+                      "frame" : 41,
+                      "flags" : [],
+                      "sets" : []
+                     },{"opt" : "Give up and hire the hero to find your shovel.",
+                      "frame" : 42,
+                      "flags" : [],
+                      "sets" : []
+                     }]
+    }
