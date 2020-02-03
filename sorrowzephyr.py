@@ -199,7 +199,7 @@ class GameHandler():
         self.debug_box = urwid.Text("")
 
 
-        piles = [urwid.LineBox(box) for box in [self.dialog_box, padded_c_box, self.debug_box]]
+        piles = [urwid.LineBox(box) for box in [self.dialog_box, padded_c_box]]
         pile_box = urwid.Pile(piles)
 
         columns_options = self.columns_box.options()
@@ -236,7 +236,7 @@ class GameHandler():
         else:
             self.start_music()
 
-        
+
 
     def toggle_tts(self, widget, state, option_data):
         self.tts = not self.tts
