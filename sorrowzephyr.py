@@ -77,7 +77,7 @@ class GameHandler():
         self.current_song = 'Hemispheres.mp3'
         self.create_game_content()
 
-        self.columns_box = urwid.Columns([urwid.Text("Anguis et Corvis\nProductions", align='center')])
+        self.columns_box = urwid.Columns([urwid.Text("Anguis et Corvus\nProductions", align='center')])
         fill = urwid.Filler(self.columns_box,'top')
 
         self.loop = urwid.MainLoop(fill, unhandled_input=self.handle_keys)
